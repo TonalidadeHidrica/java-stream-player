@@ -115,11 +115,11 @@
             <artifactId>java-vorbis-support</artifactId>
             <version>v1.0.0</version>
 				</dependency> -->
-        <dependency>
+				<!-- <dependency>
             <groupId>com.googlecode.soundlibs</groupId>
             <artifactId>tritonus-share</artifactId>
             <version>0.3.7.4</version>
-        </dependency>
+				</dependency> -->
         <dependency>
             <groupId>com.googlecode.soundlibs</groupId>
             <artifactId>tritonus-all</artifactId>
