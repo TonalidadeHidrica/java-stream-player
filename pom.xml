@@ -104,11 +104,17 @@
             <artifactId>jflac-codec</artifactId>
             <version>1.5.2</version>
         </dependency>
-        <dependency>
+				<!-- https://mvnrepository.com/artifact/com.github.trilarion/vorbis-support -->
+				<dependency>
+						<groupId>com.github.trilarion</groupId>
+						<artifactId>vorbis-support</artifactId>
+						<version>1.0.0</version>
+				</dependency>
+				<!-- <dependency>
             <groupId>com.github.Trilarion</groupId>
             <artifactId>java-vorbis-support</artifactId>
             <version>v1.0.0</version>
-        </dependency>
+				</dependency> -->
         <dependency>
             <groupId>com.googlecode.soundlibs</groupId>
             <artifactId>tritonus-share</artifactId>
